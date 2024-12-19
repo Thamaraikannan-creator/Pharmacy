@@ -4,3 +4,6 @@ if inp%2==0:
 else:
     print("odd  number")
 
+
+print('data')
+
